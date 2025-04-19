@@ -1,1 +1,2 @@
 # Power-BI-Sales-Dashboard
+## ShopNest confronted delayed deliveries and reduced profits across product categories. Tasked with analyzing sales, orders, delivery, and regional data, I developed interactive Power BI dashboards using DAX calculations, slicers, and filters to enhance decision-making. This initiative reduced delay orders by 5.7% and increased category insights by 35%, drastically improving performance.
